@@ -1,0 +1,16 @@
+PODS:
+  - MaterialTextField (0.2.1)
+
+DEPENDENCIES:
+  - MaterialTextField (~> 0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MaterialTextField
+
+SPEC CHECKSUMS:
+  MaterialTextField: f876a39d571eeece872af6a4da421e3bd065fe0b
+
+PODFILE CHECKSUM: 6e30324ae10f1a7a080829ffe1374a48b3f53294
+
+COCOAPODS: 1.5.3
