@@ -6,8 +6,10 @@ Açık kaynağın gücünü iOS uygulamanıza taşıyın! CocoaPods nedir? Cocoa
 
 ### CocoaPods Nedir?
 
-CocoaPods, ObjectiveC ve Swift dilleri için geliştirilmiş bir dependency manager dir. Ruby diliyle yazılmıştır. 
+CocoaPods, ObjectiveC ve Swift dilleri için geliştirilmiş bir dependency manager dir. Ruby diliyle yazılmıştır.
+
 İçerisinde binlerce 3rd party kütüphane bulundurur ve kullanmak istediğiniz kütüphaneyi CocoaPods yardımıyla projenize dahil etmek istediğinizi belirtirsiniz. 
+
 CocoaPods bütün uyumluluk ve dependency problemlerini sizin için çözer ve istediğiniz kütüphaneyi hemen kullanımınıza sunar. 
 CocoaPods ile yüklediğiniz her bir kütüphaneye kısaca ‘pod’ adı verilir.
 
